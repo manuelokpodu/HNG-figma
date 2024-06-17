@@ -6,7 +6,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* font-family: "Lexend Deca", sans-serif; */
 }
 
 /* ================NAV SECTION================== */
@@ -19,7 +18,6 @@ body {
 }
 
 nav {
-  border: 2px solid green;
   width: 1441px;
   background-color: #daf5f0;
   border-bottom: 1px solid #000000;
@@ -29,7 +27,6 @@ nav {
 }
 
 .nav_con {
-  /* border: 2px solid red; */
   max-width: 1185px;
   margin: 17px 128px;
   display: flex;
@@ -135,7 +132,6 @@ header {
 /* =================================INFO SECTION===================================== */
 
 .alone {
-  /* border: 2px solid red; */
   background-color: #fbaf41;
   border-bottom: 3px solid #000000;
   display: flex;
@@ -160,7 +156,6 @@ header {
 }
 
 .all_boxes {
-  /* border: 3px solid yellow; */
   width: 1179px;
   margin: auto;
   text-align: center;
@@ -192,7 +187,6 @@ header {
   border: 4px solid #000000;
   border-radius: 8px;
   box-shadow: 11px 11px 0px 0px #000000;
-  border: 2px solid red;
 }
 
 .each_box div {
@@ -248,7 +242,6 @@ header {
 
 .gear_text ul {
   margin-left: 40px;
-  /* border: 2px solid green; */
 }
 
 .gear_text ul li {
@@ -261,11 +254,9 @@ header {
 /* =================================BLOG===================================== */
 
 .grid {
-  /* border: 2px solid red; */
   background-color: #f5f5dc;
   padding: 69px 0;
   border-bottom: 3px solid #000000;
-  /* text-align: center; */
 }
 
 .grid_con {
@@ -329,7 +320,6 @@ header {
 .lower_card4,
 .lower_card5,
 .lower_card6 {
-  /* background-color: #c4a1ff; */
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -422,8 +412,6 @@ header {
 .sec_partner {
   background-color: white;
   height: 390px;
-  /* position: relative; */
-  border: 2px solid green;
   display: flex;
   align-items: center;
 }
@@ -431,13 +419,9 @@ header {
 .partners {
   width: 1183.16px;
   height: 216.2px;
-  /* position: absolute;
-  top: 3561px;
-  left: 128px; */
   display: flex;
   flex-direction: column;
   gap: 44px;
-  /* border: 2px solid red; */
   align-items: center;
   margin: auto;
 }
@@ -496,7 +480,6 @@ header {
 }
 
 .frame1000002374 {
-  /* border: 2px solid red; */
   width: 1187.39px;
   height: 845.08px;
   margin: auto;
@@ -506,7 +489,6 @@ header {
 }
 
 .get_in_touch {
-  /* border: 2px solid green; */
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -528,7 +510,6 @@ header {
 }
 
 .frame1000002373 {
-  /* border: 2px solid red; */
   display: flex;
   gap: 189px;
 }
@@ -553,7 +534,6 @@ header {
 
 .frame198,
 .frame197 {
-  /* border: 2px solid red; */
   display: flex;
   gap: 10px;
   width: 557.23px;
@@ -621,7 +601,6 @@ input[type="email"] {
 }
 
 .contact_details {
-  /* border: 2px solid green; */
   width: 377.74px;
   display: flex;
   flex-direction: column;
@@ -674,7 +653,6 @@ footer {
 }
 
 .foot_main_con {
-  /* border: 2px solid red; */
   width: 1187.39px;
   margin: auto;
   display: flex;
@@ -689,7 +667,6 @@ footer {
 }
 
 .newsletter_card {
-  /* border: 2px solid blue; */
   display: flex;
   flex-direction: column;
   gap: 42px;
@@ -704,7 +681,6 @@ footer {
   font-size: 17px;
   font-weight: 400;
   line-height: 25.5px;
-  /* width: 505px; */
 }
 
 .frame1000002377 {
@@ -738,16 +714,15 @@ input[id="email"] {
   font-size: 20px;
   font-weight: 500;
   font-family: "Lexend Deca", sans-serif;
+  color: #000000;
 }
 
 .frame1000002384 {
-  /* border: 2px solid green; */
   display: flex;
   gap: 28px;
 }
 
 .frame1000002382 {
-  /* border: 2px solid yellow; */
   display: flex;
   color: #ffffff;
   gap: 118px;
@@ -782,7 +757,6 @@ input[id="email"] {
 }
 
 .frame167 {
-  /* border: 2px solid green; */
   display: flex;
   flex-direction: column;
   height: 93px;
